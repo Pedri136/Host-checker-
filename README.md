@@ -1,4 +1,4 @@
-HOST-SCANNER is a best and fast tool for scanning hosts using HTTP requests,
+HOST-SCANNER is a best tool for scanning hosts using HTTP requests ; 
 
 #### Usage Steps
 
@@ -10,7 +10,4 @@ chmod +x Host-Checker
 
 
 ./Host-Checker 
- 
-     - Results will be saved to the specified file in JSON format: ( .json)
-     like : 
-    
+
